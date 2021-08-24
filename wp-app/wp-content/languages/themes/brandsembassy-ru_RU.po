@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: brandsembassy\n"
+"POT-Creation-Date: 2019-08-10 17:27+0600\n"
+"PO-Revision-Date: 2019-08-10 17:29+0600\n"
+"Last-Translator: Anuar Mendubaev <amendubaev@yandex.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Этой страницы не существует."
+
+#: 404.php:9
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive-companies.php:10
+msgid "Search for companies"
+msgstr "Поиск для компании"
+
+#: archive-events.php:10
+msgid "Search for events"
+msgstr "Поиск для событий"
+
+#: archive-speakers.php:10
+msgid "Search for experts"
+msgstr "Поиск для экспертов"
+
+#: archive-speakers.php:18
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+#: footer.php:44
+msgid ""
+"We use cookies to improve the site. A cookie contains information about past "
+"visits to the site. If you do not want this data to be processed, disable "
+"the cookie in your browser settings."
+msgstr ""
+"Мы используем файлы cookies, чтобы улучшать работу сайта. В cookie "
+"содержатся данные о прошлых посещениях сайта. Если вы не хотите, чтобы эти "
+"данные обрабатывались, отключите cookie в настройках вашего браузера."
+
+#: front-page.php:8
+msgid ""
+"Synchronization of brand interests with partners and customers anywhere in "
+"the world."
+msgstr ""
+"Синхронизация интересов брендов с партнерами и клиентами в любой точке мира."
+
+#: front-page.php:9 template-parts/carousels/industries.php:13
+msgid ""
+"Global areas of the economy that are responsible for the full cycle of "
+"production and marketing of goods and services of a related direction."
+msgstr ""
+"Глобальные сферы экономики, отвечающие за полный цикл производства и сбыта "
+"товаров и услуг сопутствующего направления."
+
+#: front-page.php:13 searchform.php:7 template-parts/blocks/search.php:11
+#: template-parts/modals/filter.php:8
+msgid "Search"
+msgstr "Поиск"
+
+#: front-page.php:16
+msgid "All sections"
+msgstr "Все разделы"
+
+#: front-page.php:20 functions.php:255 template-parts/carousels/patterns.php:13
+msgid "Patterns"
+msgstr "Паттерны"
+
+#: front-page.php:24 functions.php:256
+msgid "Megatrends"
+msgstr "Мегатренды"
+
+#: front-page.php:28 functions.php:247
+#: template-parts/carousels/industries.php:12
+msgid "Industries"
+msgstr "Индустрии"
+
+#: front-page.php:32 functions.php:248
+msgid "Branches"
+msgstr "Отрасли"
+
+#: front-page.php:36 template-parts/carousels/companies.php:11
+#: template-parts/carousels/companies.php:13
+msgid "Companies"
+msgstr "Компании"
+
+#: front-page.php:57 template-parts/modals/filter.php:74
+msgid "Close"
+msgstr "Закрыть"
+
+#: functions.php:11
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:12
+msgid "Footer Menu 1"
+msgstr ""
+
+#: functions.php:13
+msgid "Footer Menu 2"
+msgstr ""
+
+#: functions.php:14
+msgid "Footer Menu 3"
+msgstr ""
+
+#: functions.php:15
+msgid "Footer Menu 4"
+msgstr ""
+
+#: functions.php:26
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:251
+msgid "Countries"
+msgstr "Страны"
+
+#: functions.php:252
+msgid "Cities"
+msgstr "Города"
+
+#: functions.php:1008
+msgid "Load more"
+msgstr "Загрузить еще"
+
+#: functions.php:1019
+msgid "Search result:"
+msgstr "Результаты поиска:"
+
+#: page-templates/industries.php:36
+msgid "Search for industry"
+msgstr "Поиск по индустриям"
+
+#: page-templates/locations.php:14
+msgid "Search for location"
+msgstr "Поиск по локациям"
+
+#: page-templates/locations.php:34
+#, php-format
+msgid "%s location"
+msgid_plural "%s locations"
+msgstr[0] "%s локация"
+msgstr[1] "%s локации"
+msgstr[2] "%s локаций"
+
+#: search.php:6
+msgid "Search for experts:"
+msgstr "Поиск по экспертам:"
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска по запросу: “%s”"
+
+#: search.php:21
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: single-companies.php:171 single-speakers.php:164
+msgid "Contact"
+msgstr "Связаться"
+
+#: single-companies.php:172
+msgid ""
+"If you have a question or business proposal for the company, you can contact "
+"her."
+msgstr ""
+"Если у вас есть вопрос или деловое предложение к компании, вы можете "
+"связаться с ней."
+
+#: single-companies.php:176
+msgid "Company Links"
+msgstr "Ссылки компании"
+
+#: single-events.php:43
+#, php-format
+msgid "and %s more expert"
+msgid_plural "and %s more experts"
+msgstr[0] "и еще %s эксперт"
+msgstr[1] "и еще %s эксперта"
+msgstr[2] "и еще %s экспертов"
+
+#: single-speakers.php:123
+msgid "Related locations"
+msgstr "Связанные локации"
+
+#: single-speakers.php:135
+msgid "Related events"
+msgstr "Связанные события"
+
+#: single-speakers.php:147
+msgid "Related companies"
+msgstr "Связанные компании"
+
+#: single-speakers.php:165
+msgid ""
+"If you have a question or business proposal for the expert, you can contact "
+"her."
+msgstr ""
+"Если у вас есть вопрос или деловое предложение к эксперту, вы можете "
+"связаться с ним."
+
+#: single-speakers.php:169
+msgid "Expert Links"
+msgstr "Ссылки на эксперта"
+
+#: taxonomy-industries-branch-item.php:71
+#, php-format
+msgid "%s in %s"
+msgstr "%s в %s"
+
+#: template-parts/blocks/industries-filter.php:8
+msgid "Industries and branches"
+msgstr "Индустрии и отрасли"
+
+#: template-parts/blocks/industries-filter.php:9
+#: template-parts/blocks/locations-filter.php:9
+#: template-parts/blocks/patterns-filter.php:9
+msgid "Reset"
+msgstr "Сбросить"
+
+#: template-parts/blocks/industries-filter.php:13
+msgid "Any industry"
+msgstr "Любая индустрия"
+
+#: template-parts/blocks/industries-filter.php:16
+msgid "Any branch"
+msgstr "Любая отрасль"
+
+#: template-parts/blocks/locations-filter.php:8
+#: template-parts/carousels/locations.php:7
+#: template-parts/carousels/locations.php:10
+msgid "Locations"
+msgstr "Локации"
+
+#: template-parts/blocks/locations-filter.php:13
+msgid "Any country"
+msgstr "Любая страна"
+
+#: template-parts/blocks/locations-filter.php:16
+msgid "Any city"
+msgstr "Любой город"
+
+#: template-parts/blocks/patterns-filter.php:8
+msgid "Patterns and megatrends"
+msgstr "Паттерны и мегатренды"
+
+#: template-parts/blocks/patterns-filter.php:13
+msgid "Any pattern"
+msgstr "Любой паттерн"
+
+#: template-parts/blocks/patterns-filter.php:16
+msgid "Any megatrend"
+msgstr "Любой мегатренд"
+
+#: template-parts/blocks/sorting.php:6
+msgid "Sorting:"
+msgstr "Сортировка:"
+
+#: template-parts/blocks/sorting.php:7 template-parts/blocks/sorting.php:9
+msgid "Alphabetically (A-z)"
+msgstr "По алфавиту (А-я)"
+
+#: template-parts/blocks/sorting.php:10
+msgid "Alphabetically (Z-a)"
+msgstr "По алфавиту (Я-а)"
+
+#: template-parts/cards/branch.php:7 template-parts/cards/industry.php:30
+#: template-parts/cards/location.php:38 template-parts/cards/megatrend.php:10
+#, php-format
+msgid "%s expert"
+msgid_plural "%s experts"
+msgstr[0] "%s эксперт"
+msgstr[1] "%s эксперта"
+msgstr[2] "%s экспертов"
+
+#: template-parts/cards/branch.php:10 template-parts/cards/industry.php:33
+#: template-parts/cards/location.php:41
+#, php-format
+msgid "%s company"
+msgid_plural "%s companies"
+msgstr[0] "%s компания"
+msgstr[1] "%s компании"
+msgstr[2] "%s компаний"
+
+#: template-parts/cards/industry.php:18 template-parts/cards/location.php:29
+#, php-format
+msgid "%s branch"
+msgid_plural "%s branches"
+msgstr[0] "%s отрасль"
+msgstr[1] "%s отрасли"
+msgstr[2] "%s отраслей"
+
+#: template-parts/cards/industry.php:23
+#, php-format
+msgid "and %s more branch"
+msgid_plural "and %s more branches"
+msgstr[0] "и еще %s отрасль"
+msgstr[1] "и еще %s отрасли"
+msgstr[2] "и еще %s отраслей"
+
+#: template-parts/cards/megatrend.php:13
+#, php-format
+msgid "%s event"
+msgid_plural "%s events"
+msgstr[0] "%s событие"
+msgstr[1] "%s события"
+msgstr[2] "%s событий"
+
+#: template-parts/cards/pattern.php:18
+#, php-format
+msgid "%s megatrend"
+msgid_plural "%s megatrends"
+msgstr[0] "%s мегатренд"
+msgstr[1] "%s мегатренда"
+msgstr[2] "%s мегатрендов"
+
+#: template-parts/cards/pattern.php:25
+#, php-format
+msgid "and %s more megatrend"
+msgid_plural "and %s megatrends"
+msgstr[0] "и %s мегатренд"
+msgstr[1] "и %s мегатренда"
+msgstr[2] "и %s мегатрендов"
+
+#: template-parts/carousels/events.php:12
+#: template-parts/carousels/events.php:14
+msgid "Events"
+msgstr "События"
+
+#: template-parts/carousels/experts.php:12
+msgid "Experts"
+msgstr "Эксперты"
+
+#: template-parts/carousels/experts.php:13
+msgid ""
+"Persons with knowledge, experience and abilities that have received public "
+"recognition as a result of their activities."
+msgstr ""
+"Личности обладающие знаниями, опытом и способностями получившие признание "
+"общества в результате своей деятельности."
+
+#: template-parts/carousels/experts.php:15
+msgid "Related Experts"
+msgstr "Связанные Эксперты"
+
+#: template-parts/carousels/locations.php:8
+msgid ""
+"Countries, megacities and ecosystems where trends appear are concentrated "
+"experts and companies that influence changes in industries."
+msgstr ""
+"Страны, Мегаполисы и Экосистемы где появляются тренды, сосредоточены "
+"эксперты и компании, влияющие на изменения в отраслях. "
+
+#: template-parts/carousels/patterns.php:14
+msgid "Patterns define the basic patterns of global business development."
+msgstr "Паттерны определяют основные модели развития мирового бизнеса."
+
+#: template-parts/modals/filter.php:67
+msgid "Selected"
+msgstr "Выбрано"
+
+#: template-parts/modals/filter.php:70
+msgid "Apply"
+msgstr "Применить"
+
+#. Theme Name of the plugin/theme
+msgid "brandsembassy"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Special theme for Denis"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Anuar Mendubaev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://vk.com/amendubaevv/"
+msgstr ""

